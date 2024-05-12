@@ -1,0 +1,17 @@
+use torneo_copa_america
+
+db.createCollection("deportistas")
+db.createCollection("equipos")
+db.createCollection("entrenadores")
+db.createCollection("arbitros")
+db.createCollection("encuentros_deportivos")
+db.createCollection("resultados")
+db.createCollection("tabla_de_posiciones")
+
+mongoimport --db torneo_copa_america --collection deportistas --file "C:\Users\Programacion\Documents\MongoDB\deportistas.json" --jsonArray
+mongoimport --db torneo_copa_america --collection equipos --file "C:\Users\Programacion\Documents\MongoDB\equipos.json" --jsonArray
+mongoimport --db torneo_copa_america --collection entrenadores --file "C:\Users\Programacion\Documents\MongoDB\entrenadores.json" --jsonArray
+mongoimport --db torneo_copa_america --collection arbitros --file "C:\Users\Programacion\Documents\MongoDB\arbitros.json" --jsonArray
+mongoimport --db torneo_copa_america --collection encuentros_deportivos --file "C:\Users\Programacion\Documents\MongoDB\encuentros_deportivos.json" --jsonArray
+mongoimport --db torneo_copa_america --collection resultados --file "C:\Users\Programacion\Documents\MongoDB\resultados.json" --jsonArray
+mongoimport --db torneo_copa_america --collection tabla_de_posiciones --file "C:\Users\Programacion\Documents\MongoDB\tabla_de_posiciones.json" --jsonArray
