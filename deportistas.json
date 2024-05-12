@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "deportista001",
+        "nombre": "Lionel Messi",
+        "edad": 34,
+        "nacionalidad": "Argentina",
+        "posicion": "Delantero",
+        "estadisticas": {
+            "goles": 2,
+            "asistencias": 3
+        }
+    },
+    {
+        "_id": "deportista002",
+        "nombre": "Neymar Jr",
+        "edad": 30,
+        "nacionalidad": "Brasil",
+        "posicion": "Delantero",
+        "estadisticas": {
+            "goles": 3,
+            "asistencias": 2
+        }
+    },
+    {
+        "_id": "deportista003",
+        "nombre": "Luis Suárez",
+        "edad": 34,
+        "nacionalidad": "Uruguay",
+        "posicion": "Delantero",
+        "estadisticas": {
+            "goles": 1,
+            "asistencias": 0
+        }
+    },
+    {
+        "_id": "deportista004",
+        "nombre": "James Rodríguez",
+        "edad": 30,
+        "nacionalidad": "Colombia",
+        "posicion": "Mediocampista",
+        "estadisticas": {
+            "goles": 0,
+            "asistencias": 4
+        }
+    },
+    {
+        "_id": "deportista005",
+        "nombre": "Arturo Vidal",
+        "edad": 33,
+        "nacionalidad": "Chile",
+        "posicion": "Mediocampista",
+        "estadisticas": {
+            "goles": 2,
+            "asistencias": 1
+        }
+    }
+]

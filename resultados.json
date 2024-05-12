@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "resultado001",
+        "encuentro_id": "encuentro001",
+        "goles": [
+            {"jugador_id": "deportista001", "minuto": 23},
+            {"jugador_id": "deportista005", "minuto": 57}
+        ],
+        "tarjetas": [
+            {"jugador_id": "deportista002", "tipo": "Amarilla", "minuto": 30}
+        ]
+    },
+    {
+        "_id": "resultado002",
+        "encuentro_id": "encuentro002",
+        "goles": [
+            {"jugador_id": "deportista004", "minuto": 88}
+        ],
+        "tarjetas": [
+            {"jugador_id": "deportista011", "tipo": "Roja", "minuto": 45}
+        ]
+    },
+    {
+        "_id": "resultado003",
+        "encuentro_id": "encuentro003",
+        "goles": [
+            {"jugador_id": "deportista002", "minuto": 19},
+            {"jugador_id": "deportista002", "minuto": 50},
+            {"jugador_id": "deportista009", "minuto": 78}
+        ],
+        "tarjetas": []
+    },
+    {
+        "_id": "resultado004",
+        "encuentro_id": "encuentro004",
+        "goles": [
+            {"jugador_id": "deportista002", "minuto": 12},
+            {"jugador_id": "deportista008", "minuto": 27},
+            {"jugador_id": "deportista002", "minuto": 46},
+            {"jugador_id": "deportista008", "minuto": 61}
+        ],
+        "tarjetas": [
+            {"jugador_id": "deportista014", "tipo": "Amarilla", "minuto": 42}
+        ]
+    },
+    {
+        "_id": "resultado005",
+        "encuentro_id": "encuentro005",
+        "goles": [
+            {"jugador_id": "deportista005", "minuto": 89}
+        ],
+        "tarjetas": [
+            {"jugador_id": "deportista015", "tipo": "Amarilla", "minuto": 72},
+            {"jugador_id": "deportista014", "tipo": "Amarilla", "minuto": 76}
+        ]
+    }
+]

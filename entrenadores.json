@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "entrenador001",
+        "nombre": "Lionel Scaloni",
+        "nacionalidad": "Argentina",
+        "edad": 43,
+        "historial": {
+            "equipo_anterior": "Sevilla (asistente)"
+        }
+    },
+    {
+        "_id": "entrenador002",
+        "nombre": "Tite",
+        "nacionalidad": "Brasil",
+        "edad": 59,
+        "historial": {
+            "equipo_anterior": "Corinthians"
+        }
+    },
+    {
+        "_id": "entrenador003",
+        "nombre": "Óscar Tabárez",
+        "nacionalidad": "Uruguay",
+        "edad": 74,
+        "historial": {
+            "equipo_anterior": "Boca Juniors"
+        }
+    },
+    {
+        "_id": "entrenador004",
+        "nombre": "Reinaldo Rueda",
+        "nacionalidad": "Colombia",
+        "edad": 64,
+        "historial": {
+            "equipo_anterior": "Chile"
+        }
+    },
+    {
+        "_id": "entrenador005",
+        "nombre": "Martín Lasarte",
+        "nacionalidad": "Uruguay",
+        "edad": 60,
+        "historial": {
+            "equipo_anterior": "Al-Ahly"
+        }
+    }
+]

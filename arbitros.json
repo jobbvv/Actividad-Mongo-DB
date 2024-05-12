@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "arbitro001",
+        "nombre": "Néstor Pitana",
+        "nacionalidad": "Argentina",
+        "partidos_arbitrados": 5
+    },
+    {
+        "_id": "arbitro002",
+        "nombre": "Roberto Tobar",
+        "nacionalidad": "Chile",
+        "partidos_arbitrados": 4
+    },
+    {
+        "_id": "arbitro003",
+        "nombre": "Wilmar Roldán",
+        "nacionalidad": "Colombia",
+        "partidos_arbitrados": 3
+    },
+    {
+        "_id": "arbitro004",
+        "nombre": "Fernando Rapallini",
+        "nacionalidad": "Argentina",
+        "partidos_arbitrados": 4
+    },
+    {
+        "_id": "arbitro005",
+        "nombre": "Andrés Cunha",
+        "nacionalidad": "Uruguay",
+        "partidos_arbitrados": 3
+    }
+]

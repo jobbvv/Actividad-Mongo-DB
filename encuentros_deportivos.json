@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "encuentro001",
+        "fecha": "2021-06-13",
+        "equipos": ["Argentina", "Chile"],
+        "resultado": "1-1",
+        "estadio": "Estadio Nilton Santos"
+    },
+    {
+        "_id": "encuentro002",
+        "fecha": "2021-06-14",
+        "equipos": ["Colombia", "Ecuador"],
+        "resultado": "1-0",
+        "estadio": "Arena Pantanal"
+    },
+    {
+        "_id": "encuentro003",
+        "fecha": "2021-06-15",
+        "equipos": ["Brasil", "Venezuela"],
+        "resultado": "3-0",
+        "estadio": "Estadio Mané Garrincha"
+    },
+    {
+        "_id": "encuentro004",
+        "fecha": "2021-06-16",
+        "equipos": ["Perú", "Brasil"],
+        "resultado": "0-4",
+        "estadio": "Estadio Olímpico de Goiânia"
+    },
+    {
+        "_id": "encuentro005",
+        "fecha": "2021-06-17",
+        "equipos": ["Chile", "Bolivia"],
+        "resultado": "1-0",
+        "estadio": "Arena Pantanal"
+    }
+]

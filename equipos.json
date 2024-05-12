@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "equipo001",
+        "nombre": "Argentina",
+        "grupo": "A",
+        "entrenador": "Lionel Scaloni",
+        "jugadores": ["deportista001", "deportista006", "deportista007"]
+    },
+    {
+        "_id": "equipo002",
+        "nombre": "Brasil",
+        "grupo": "A",
+        "entrenador": "Tite",
+        "jugadores": ["deportista002", "deportista008", "deportista009"]
+    },
+    {
+        "_id": "equipo003",
+        "nombre": "Uruguay",
+        "grupo": "B",
+        "entrenador": "Óscar Tabárez",
+        "jugadores": ["deportista003", "deportista010", "deportista011"]
+    },
+    {
+        "_id": "equipo004",
+        "nombre": "Colombia",
+        "grupo": "B",
+        "entrenador": "Reinaldo Rueda",
+        "jugadores": ["deportista004", "deportista012", "deportista013"]
+    },
+    {
+        "_id": "equipo005",
+        "nombre": "Chile",
+        "grupo": "C",
+        "entrenador": "Martín Lasarte",
+        "jugadores": ["deportista005", "deportista014", "deportista015"]
+    }
+]
